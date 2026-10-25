@@ -29,11 +29,14 @@ everything else.
 
 Merged so far:
 
-| PR | Change |
-|:--|:--|
-| [#8858](https://github.com/sqlfluff/sqlfluff/pull/8858) | Trino: parse `TRUNCATE TABLE` |
-| [#8857](https://github.com/sqlfluff/sqlfluff/pull/8857) | Redshift: parse `SHOW` statements |
-| [#8818](https://github.com/sqlfluff/sqlfluff/pull/8818) | Redshift: masking policies |
+<!-- MERGED:START -->
+| Repository | PR | Change |
+|:--|:--|:--|
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8857](https://github.com/sqlfluff/sqlfluff/pull/8857) | fix(redshift): parse SHOW statements |
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8858](https://github.com/sqlfluff/sqlfluff/pull/8858) | fix(trino): parse TRUNCATE TABLE statements |
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8818](https://github.com/sqlfluff/sqlfluff/pull/8818) | Redshift: support dynamic data masking policies |
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8841](https://github.com/sqlfluff/sqlfluff/pull/8841) | Databricks: preserve magic-cell newlines for LT01 |
+<!-- MERGED:END -->
 
 A few more are open and waiting on review — the interesting one is
 [#8868](https://github.com/sqlfluff/sqlfluff/pull/8868), a reusable parser
