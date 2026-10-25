@@ -44,8 +44,7 @@ matcher for delimiters that have to sit on their own line (Oracle's `/`).
 
 ### Elsewhere
 
-中文也说得来。我在开源里做的东西基本都是先在本地跑通、再想办法让它别被维护者
-打回去。
+Duo-ee means 对！
 
 <sub>This profile README is hand-written, but I do use AI assistance in my
 contributions; every PR I open says so.</sub>
