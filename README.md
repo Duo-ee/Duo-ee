@@ -32,6 +32,7 @@ Merged so far:
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8869](https://github.com/sqlfluff/sqlfluff/pull/8869) | perf(reflow): find alignment siblings in a single walk |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8857](https://github.com/sqlfluff/sqlfluff/pull/8857) | fix(redshift): parse SHOW statements |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8858](https://github.com/sqlfluff/sqlfluff/pull/8858) | fix(trino): parse TRUNCATE TABLE statements |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8818](https://github.com/sqlfluff/sqlfluff/pull/8818) | Redshift: support dynamic data masking policies |
