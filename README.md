@@ -32,6 +32,8 @@ Merged so far:
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#632](https://github.com/Rekin226/aquascope/pull/632) | docs: state the Archive catalog and mirror as two numbers |
+| [truera/trulens](https://github.com/truera/trulens) | [#2999](https://github.com/truera/trulens/pull/2999) | ci: install Miniconda in the conda packaging job |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8869](https://github.com/sqlfluff/sqlfluff/pull/8869) | perf(reflow): find alignment siblings in a single walk |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8857](https://github.com/sqlfluff/sqlfluff/pull/8857) | fix(redshift): parse SHOW statements |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8858](https://github.com/sqlfluff/sqlfluff/pull/8858) | fix(trino): parse TRUNCATE TABLE statements |
@@ -45,11 +47,20 @@ matcher for delimiters that have to sit on their own line (Oracle's `/`).
 
 ### Also working on
 
-Over at [aquascope](https://github.com/Rekin226/aquascope) I opened
-[#632](https://github.com/Rekin226/aquascope/pull/632), getting the project to
-state the size of its archive the same way everywhere: 75,833 stations
-catalogued, 5,850 of them mirrored, taken straight from the harvest manifest
-rather than from an old figure in the roadmap.
+Over at [aquascope](https://github.com/Rekin226/aquascope), a hydrology data
+project: I got the archive to state its size the same way everywhere
+([#632](https://github.com/Rekin226/aquascope/pull/632), merged), and have five
+more open — Sen's slope measured against the calendar year rather than against
+sequence positions ([#671](https://github.com/Rekin226/aquascope/pull/671)),
+GloFAS requests sent to the EWDS endpoint that actually serves them
+([#672](https://github.com/Rekin226/aquascope/pull/672)), Theis drawdown for a
+dropped well ([#674](https://github.com/Rekin226/aquascope/pull/674)), near-dry
+basins kept out of the "rivers much above normal" findings
+([#675](https://github.com/Rekin226/aquascope/pull/675)), and a record-quality
+half on the site reconnaissance ([#676](https://github.com/Rekin226/aquascope/pull/676)).
+
+In [truera/trulens](https://github.com/truera/trulens) I fixed the conda
+packaging job ([#2999](https://github.com/truera/trulens/pull/2999), merged).
 
 ### Things I find interesting
 
