@@ -1,33 +1,158 @@
+<!-- ══════════════════════════════════════════════════════════════
+     Duo · profile README
+     Layout inspired by the "big banner" profile style: a custom
+     SVG hero, capability cards, and shields.io badge rows.
+     The merged-PR table between MERGED markers is rewritten daily
+     by .github/workflows/update-profile.yml — do not edit by hand.
+     ══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# Hi, I'm Duo
-
-**SQL tooling · database internals · parsers**
-
-<a href="https://github.com/sqlfluff/sqlfluff">
-  <img src="https://img.shields.io/badge/contributor-sqlfluff-2f6f4e?style=flat-square" alt="sqlfluff">
+<a href="https://github.com/Duo-ee">
+  <img src="https://komarev.com/ghpvc/?username=Duo-ee&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </a>
-<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="python">
-<img src="https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="rust">
-<img src="https://img.shields.io/badge/-SQL-4479A1?style=flat-square" alt="sql">
+<a href="https://github.com/Duo-ee?tab=followers">
+  <img src="https://img.shields.io/github/followers/Duo-ee?label=Followers&style=flat&logo=github" alt="GitHub Followers">
+</a>
 
-<br><br>
+</div>
 
-<img height="158" src="https://github-readme-stats.vercel.app/api?username=Duo-ee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&hide=stars" alt="stats" />
-<img height="158" src="https://github-readme-streak-stats.herokuapp.com/?user=Duo-ee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakNum=C9D1D9&currStreakLabel=2F81F7" alt="streak" />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Duo-ee/Duo-ee/main/banner/hero.svg" alt="Duo — SQL tooling, parsers, database internals" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Duo-ee/Duo-ee/main/banner/skills.svg" alt="What I work on" width="100%"/>
+</div>
+
+---
+
+# 👨‍💻 About Me
+
+## Duo
+
+**Computer Science graduate, USTC**
+**中国科学技术大学 · 计算机系毕业**
+
+I work on the unglamorous half of software: the part that reads other people's
+SQL and has to be right. Most of what I do is dialect grammar — teaching a parser
+to accept real syntax it currently rejects, without becoming permissive about
+everything else.
+
+- 🎓 **Degree / Field:** Computer Science (USTC)
+- 🎯 **Focus areas:** SQL dialects, parsers, database internals, parser performance
+- 🧪 **Working style:** reproduce first, then change the grammar, then count what
+  else moved
+- 📬 **Contact:** open an issue on a repository I contribute to, or reply on a PR
+
+<p align="center">
+  <a href="https://github.com/Duo-ee?tab=repositories">
+    <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+  </a>
+  <a href="https://github.com/sqlfluff/sqlfluff">
+    <img src="https://img.shields.io/badge/SQLFLUFF-CONTRIBUTOR-2f6f4e?style=for-the-badge&logo=python&logoColor=white" alt="sqlfluff"/>
+  </a>
+  <a href="https://github.com/Rekin226/aquascope">
+    <img src="https://img.shields.io/badge/AQUASCOPE-CONTRIBUTOR-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="aquascope"/>
+  </a>
+  <a href="https://github.com/sphinx-doc/sphinx">
+    <img src="https://img.shields.io/badge/SPHINX-CONTRIBUTOR-1A73E8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="sphinx"/>
+  </a>
+</p>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧩 sqlfluff — dialect grammars</h3>
+      <p>Merged fixes that make the parser read syntax it used to reject:
+      Redshift <code>SHOW</code> statements and dynamic data masking policies,
+      Trino <code>TRUNCATE TABLE</code>, and Databricks magic-cell newlines in LT01.
+      Each one ships with fixtures proving the new syntax parses <em>and</em> that
+      the surrounding rules did not get looser.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr+author%3ADuo-ee"><img src="https://img.shields.io/badge/VIEW-PULL%20REQUESTS-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View pull requests"/></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌊 aquascope — hydrology data</h3>
+      <p>Making a public archive say the same number everywhere: the catalog and
+      the mirror now state their size in one consistent way, Sen's slope measures
+      against the calendar year instead of row positions, GloFAS requests go to the
+      endpoint that actually serves them, and near-dry basins stay out of the
+      "rivers much above normal" findings.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+        <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
+      </p>
+      <p>
+        <a href="https://github.com/Rekin226/aquascope/pulls?q=is%3Apr+author%3ADuo-ee"><img src="https://img.shields.io/badge/VIEW-PULL%20REQUESTS-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View pull requests"/></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages & query**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+</p>
+
+**Data & databases**
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black" />
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jinja-B41717?style=for-the-badge&logo=jinja&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+**Tooling**
+<p>
+  <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/ruff-D7FF64?style=for-the-badge&logo=ruff&logoColor=black" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Duo-ee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&hide=stars" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Duo-ee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakNum=C9D1D9&currStreakLabel=2F81F7" alt="streak" />
+
+<br/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duo-ee&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=8" alt="top languages" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Duo-ee/Duo-ee/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
 
 </div>
 
 ---
 
-### What I'm working on
-
-I contribute to [sqlfluff](https://github.com/sqlfluff/sqlfluff), a modular SQL
-linter and formatter. Most of my work is dialect grammar: teaching the parser to
-read real syntax it currently rejects, without making it stricter about
-everything else.
-
-Merged so far:
+## ✅ Merged so far
 
 <!-- MERGED:START -->
 | Repository | PR | Change |
@@ -41,38 +166,69 @@ Merged so far:
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8841](https://github.com/sqlfluff/sqlfluff/pull/8841) | Databricks: preserve magic-cell newlines for LT01 |
 <!-- MERGED:END -->
 
-A few more are open and waiting on review — the interesting one is
-[#8868](https://github.com/sqlfluff/sqlfluff/pull/8868), a reusable parser
-matcher for delimiters that have to sit on their own line (Oracle's `/`).
+### In review
 
-### Also working on
+A few more are open and waiting on review. The interesting one is
+[#8868](https://github.com/sqlfluff/sqlfluff/pull/8868), a reusable parser matcher
+for delimiters that have to sit on their own line (Oracle's `/`), and
+[#8873](https://github.com/sqlfluff/sqlfluff/pull/8873), a warm worker runner that
+keeps templating out of the hot path of parallel linting.
 
-Over at [aquascope](https://github.com/Rekin226/aquascope), a hydrology data
-project: I got the archive to state its size the same way everywhere
-([#632](https://github.com/Rekin226/aquascope/pull/632), merged), and have five
-more open — Sen's slope measured against the calendar year rather than against
-sequence positions ([#671](https://github.com/Rekin226/aquascope/pull/671)),
-GloFAS requests sent to the EWDS endpoint that actually serves them
-([#672](https://github.com/Rekin226/aquascope/pull/672)), Theis drawdown for a
-dropped well ([#674](https://github.com/Rekin226/aquascope/pull/674)), near-dry
-basins kept out of the "rivers much above normal" findings
-([#675](https://github.com/Rekin226/aquascope/pull/675)), and a record-quality
-half on the site reconnaissance ([#676](https://github.com/Rekin226/aquascope/pull/676)).
+### Reviews I've written
 
-In [truera/trulens](https://github.com/truera/trulens) I fixed the conda
-packaging job ([#2999](https://github.com/truera/trulens/pull/2999), merged).
+Seven substantial reviews, each backed by a local reproduction rather than an
+opinion — a Trino `CREATE FUNCTION` that threw an internal `RuntimeError` before
+the PR, 93 RF02 cases exercised before and after, and a runtime check showing
+that removing a whole-row exemption turns exactly the three intended cases red:
 
-### Things I find interesting
+[#8849](https://github.com/sqlfluff/sqlfluff/pull/8849#pullrequestreview-5643719741) ·
+[#8791](https://github.com/sqlfluff/sqlfluff/pull/8791#pullrequestreview-5643739263) ·
+[#8871](https://github.com/sqlfluff/sqlfluff/pull/8871#pullrequestreview-5643764745) ·
+[#8867](https://github.com/sqlfluff/sqlfluff/pull/8867#pullrequestreview-5643792353) ·
+[#8881](https://github.com/sqlfluff/sqlfluff/pull/8881#pullrequestreview-5651612578) ·
+[#8886](https://github.com/sqlfluff/sqlfluff/pull/8886#pullrequestreview-5651728838) ·
+[#8885](https://github.com/sqlfluff/sqlfluff/pull/8885#pullrequestreview-5651931339)
 
-- SQL dialects and how a grammar stays permissive without becoming useless
-- Parser performance — I made alignment on a 200-column query go from 32s to 1.1s
+---
+
+## 💡 Things I find interesting
+
+- SQL dialects, and how a grammar stays permissive without becoming useless
+- Parser performance — I made alignment on a 200-column query go from **32s to 1.1s**
   ([#8869](https://github.com/sqlfluff/sqlfluff/pull/8869))
-- Compilers. I've written a C-minus one for a course and enjoyed the front end
-  more than the back end.
+- Compilers. I've written a C-minus one, and enjoyed the front end more than
+  the back end
+- The difference between "the test passes" and "the behaviour is still right"
 
-### Elsewhere
+## 🔭 Currently exploring
 
-Duo-ee means 对！
+- LALR/GLR trade-offs in hand-written parsers
+- Incremental parsing and caching, so linting a large repo stops re-doing work
+- Query planners: why the same SQL can cost 30x on two engines
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=680&lines=Reproduce+it%2C+then+change+the+grammar;Then+count+what+else+moved;Every+PR+says+when+AI+helped" alt="typing"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Duo-ee/Duo-ee/main/banner/footer.svg" alt="footer" width="100%"/>
+</div>
+
+<div align="center">
+
+### Thanks for visiting!
+
+**Duo-ee means 对！**
 
 <sub>This profile README is hand-written, but I do use AI assistance in my
 contributions; every PR I open says so.</sub>
+
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2F81F7,50:39D353,100:A371F7&section=footer" width="100%" alt="footer"/>
+</p>
