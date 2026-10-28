@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-label="Terminal session">
+<rect x="1" y="1" width="1198" height="298" rx="16" fill="#0B1020" stroke="#2A2F45"/>
+<path d="M1 17a16 16 0 0 1 16-16h1166a16 16 0 0 1 16 16v20H1z" fill="#11122B"/>
+<line x1="1" y1="38" x2="1199" y2="38" stroke="#2A2F45"/>
+<circle cx="26" cy="19" r="6" fill="#F472B6" opacity="0.85"/>
+<circle cx="46" cy="19" r="6" fill="#FBBF24" opacity="0.85"/>
+<circle cx="66" cy="19" r="6" fill="#22D3EE" opacity="0.85"/>
+<text x="600.0" y="24" text-anchor="middle" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#7D8590" letter-spacing="0.6">duo@ustc — ~/profile</text>
+<text x="46.0" y="78.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#22D3EE" font-weight="700">duo</text>
+<text x="71.6" y="78.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400">@</text>
+<text x="80.1" y="78.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#22D3EE" font-weight="700">ustc</text>
+<text x="114.3" y="78.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400"> </text>
+<text x="122.8" y="78.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#F472B6" font-weight="700">~</text>
+<text x="131.4" y="78.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400"> </text>
+<text x="139.9" y="78.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#818CF8" font-weight="700">%</text>
+<text x="148.4" y="78.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400"> </text>
+<text x="157.0" y="78.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#E6EDF3" font-weight="400">whoami</text>
+<text x="1154" y="78.0" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#7D8590" opacity="0.75"># what I write</text>
+<text x="46.0" y="99.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#E6EDF3" font-weight="700">Duo</text>
+<text x="71.6" y="99.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400">&#160;&#160;·&#160;&#160;</text>
+<text x="114.3" y="99.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400">SQL tooling, parsers, database internals</text>
+<text x="46.0" y="128.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#22D3EE" font-weight="700">duo</text>
+<text x="71.6" y="128.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400">@</text>
+<text x="80.1" y="128.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#22D3EE" font-weight="700">ustc</text>
+<text x="114.3" y="128.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400"> </text>
+<text x="122.8" y="128.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#F472B6" font-weight="700">~</text>
+<text x="131.4" y="128.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400"> </text>
+<text x="139.9" y="128.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#818CF8" font-weight="700">%</text>
+<text x="148.4" y="128.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400"> </text>
+<text x="157.0" y="128.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#E6EDF3" font-weight="400">git log --merged --oneline</text>
+<text x="1154" y="128.0" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#7D8590" opacity="0.75"># recent merges</text>
+<text x="46.0" y="149.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#818CF8" font-weight="700">#8869&#160;&#160;</text>
+<text x="105.8" y="149.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400">perf(reflow): find alignment siblings in a single walk</text>
+<text x="46.0" y="170.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#818CF8" font-weight="700">#8857&#160;&#160;</text>
+<text x="105.8" y="170.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400">fix(redshift): parse SHOW statements</text>
+<text x="46.0" y="191.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#818CF8" font-weight="700">#8841&#160;&#160;</text>
+<text x="105.8" y="191.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400">databricks: keep magic-cell newlines for LT01</text>
+<text x="46.0" y="220.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#22D3EE" font-weight="700">duo</text>
+<text x="71.6" y="220.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400">@</text>
+<text x="80.1" y="220.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#22D3EE" font-weight="700">ustc</text>
+<text x="114.3" y="220.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400"> </text>
+<text x="122.8" y="220.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#F472B6" font-weight="700">~</text>
+<text x="131.4" y="220.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400"> </text>
+<text x="139.9" y="220.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#818CF8" font-weight="700">%</text>
+<text x="148.4" y="220.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400"> </text>
+<text x="157.0" y="220.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#E6EDF3" font-weight="400">count --by state</text>
+<text x="1154" y="220.0" text-anchor="end" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="12.5" fill="#7D8590" opacity="0.75"># the numbers</text>
+<text x="46.0" y="241.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#F472B6" font-weight="700">merged </text>
+<text x="105.8" y="241.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#E6EDF3" font-weight="700">7</text>
+<text x="114.3" y="241.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400">&#160;&#160; open </text>
+<text x="182.6" y="241.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#E6EDF3" font-weight="700">12</text>
+<text x="199.6" y="241.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#7D8590" font-weight="400">&#160;&#160; reviews written </text>
+<text x="361.8" y="241.0" font-family="Consolas, 'DejaVu Sans Mono', monospace" font-size="15.5" fill="#E6EDF3" font-weight="700">7</text>
+<rect x="377.4" y="229.5" width="9" height="16" fill="#22D3EE"><animate attributeName="opacity" values="1;1;0;0" dur="1.2s" repeatCount="indefinite"/></rect>
+</svg>

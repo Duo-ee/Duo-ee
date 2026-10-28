@@ -25,6 +25,10 @@
   <img src="https://raw.githubusercontent.com/Duo-ee/Duo-ee/main/banner/skills.svg" alt="What I work on" width="100%"/>
 </div>
 
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Duo-ee&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=6&margin-h=6" alt="trophy shelf" width="100%"/>
+</div>
+
 ---
 
 # 👨‍💻 About Me
@@ -58,6 +62,10 @@ everything else.
     <img src="https://img.shields.io/badge/SPHINX-CONTRIBUTOR-BE185D?style=for-the-badge&logo=readthedocs&logoColor=white" alt="sphinx"/>
   </a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Duo-ee/Duo-ee/main/banner/terminal.svg" alt="A short terminal session" width="100%"/>
+</div>
 
 ---
 
@@ -104,6 +112,10 @@ everything else.
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,rust,c,cpp,bash,postgres,sqlite,git,github,githubactions,docker,linux,vim,js&theme=dark" alt="tools I use"/>
+</p>
+
 **Languages & query**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -142,6 +154,19 @@ everything else.
 <br/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duo-ee&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="top languages" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Duo-ee&theme=github_dark" alt="profile details" width="100%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Duo-ee&theme=github_dark" alt="most commit language" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Duo-ee&theme=github_dark" alt="repos per language" width="48%"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Duo-ee&theme=github_dark&utcOffset=8" alt="productive time" width="48%"/>
 
 <br/><br/>
 
