@@ -25,10 +25,6 @@
   <img src="https://raw.githubusercontent.com/Duo-ee/Duo-ee/main/banner/skills.svg" alt="What I work on" width="100%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-trophies.vercel.app/?username=Duo-ee&theme=algolia&no-frame=true&no-bg=true&column=8&margin-w=6&margin-h=6" alt="trophy shelf" width="100%"/>
-</div>
-
 ---
 
 # 👨‍💻 About Me
@@ -107,6 +103,12 @@ everything else.
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/sqlfluff/sqlfluff"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=sqlfluff&repo=sqlfluff&show_owner=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="sqlfluff"/></a>
+  <a href="https://github.com/Rekin226/aquascope"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=Rekin226&repo=aquascope&show_owner=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="aquascope"/></a>
+  <a href="https://github.com/sphinx-doc/sphinx"><img width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=sphinx-doc&repo=sphinx&show_owner=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" alt="sphinx"/></a>
+</p>
 
 ---
 
