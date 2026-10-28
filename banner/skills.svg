@@ -2,43 +2,43 @@
 
 <defs>
   <linearGradient id="sbg" x1="0" y1="0" x2="1" y2="1">
-    <stop offset="0%" stop-color="#0D1117"/>
-    <stop offset="100%" stop-color="#0B1A24"/>
+    <stop offset="0%" stop-color="#0B1020"/>
+    <stop offset="100%" stop-color="#1A1030"/>
   </linearGradient>
   <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#2F81F7" stop-opacity="0"/>
-    <stop offset="50%" stop-color="#2F81F7"/>
-    <stop offset="100%" stop-color="#39D353" stop-opacity="0"/>
+    <stop offset="0%" stop-color="#22D3EE" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#22D3EE"/>
+    <stop offset="100%" stop-color="#F472B6" stop-opacity="0"/>
   </linearGradient>
 </defs>
 
-<rect width="1200" height="250" rx="22" fill="url(#sbg)" stroke="#30363D"/>
-<rect x="52" y="30" width="350" height="164" rx="16" fill="#161B22" fill-opacity="0.6" stroke="#2F81F7" stroke-opacity="0.35"/>
-<circle cx="80" cy="58" r="5" fill="#2F81F7"/>
-<text x="96" y="63" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2" fill="#2F81F7">SQL &amp; GRAMMARS</text>
-<circle cx="82" cy="95" r="3" fill="#2F81F7" fill-opacity="0.7"/>
+<rect width="1200" height="250" rx="22" fill="url(#sbg)" stroke="#2A2F45"/>
+<rect x="52" y="30" width="350" height="164" rx="16" fill="#0E1226" fill-opacity="0.6" stroke="#22D3EE" stroke-opacity="0.35"/>
+<circle cx="80" cy="58" r="5" fill="#22D3EE"/>
+<text x="96" y="63" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2" fill="#22D3EE">SQL &amp; GRAMMARS</text>
+<circle cx="82" cy="95" r="3" fill="#22D3EE" fill-opacity="0.7"/>
 <text x="98" y="100" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#C9D1D9">dialect grammars that accept real syntax</text>
-<circle cx="82" cy="127" r="3" fill="#2F81F7" fill-opacity="0.7"/>
+<circle cx="82" cy="127" r="3" fill="#22D3EE" fill-opacity="0.7"/>
 <text x="98" y="132" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#C9D1D9">delimiter and statement matchers</text>
-<circle cx="82" cy="159" r="3" fill="#2F81F7" fill-opacity="0.7"/>
+<circle cx="82" cy="159" r="3" fill="#22D3EE" fill-opacity="0.7"/>
 <text x="98" y="164" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#C9D1D9">798-case dialect regression suites</text>
-<rect x="426" y="30" width="350" height="164" rx="16" fill="#161B22" fill-opacity="0.6" stroke="#39D353" stroke-opacity="0.35"/>
-<circle cx="454" cy="58" r="5" fill="#39D353"/>
-<text x="470" y="63" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2" fill="#39D353">PERFORMANCE</text>
-<circle cx="456" cy="95" r="3" fill="#39D353" fill-opacity="0.7"/>
+<rect x="426" y="30" width="350" height="164" rx="16" fill="#0E1226" fill-opacity="0.6" stroke="#F472B6" stroke-opacity="0.35"/>
+<circle cx="454" cy="58" r="5" fill="#F472B6"/>
+<text x="470" y="63" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2" fill="#F472B6">PERFORMANCE</text>
+<circle cx="456" cy="95" r="3" fill="#F472B6" fill-opacity="0.7"/>
 <text x="472" y="100" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#C9D1D9">32s → 1.1s on a 200-column query</text>
-<circle cx="456" cy="127" r="3" fill="#39D353" fill-opacity="0.7"/>
+<circle cx="456" cy="127" r="3" fill="#F472B6" fill-opacity="0.7"/>
 <text x="472" y="132" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#C9D1D9">single-walk AST traversal</text>
-<circle cx="456" cy="159" r="3" fill="#39D353" fill-opacity="0.7"/>
+<circle cx="456" cy="159" r="3" fill="#F472B6" fill-opacity="0.7"/>
 <text x="472" y="164" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#C9D1D9">warm workers for templating</text>
-<rect x="800" y="30" width="350" height="164" rx="16" fill="#161B22" fill-opacity="0.6" stroke="#A371F7" stroke-opacity="0.35"/>
-<circle cx="828" cy="58" r="5" fill="#A371F7"/>
-<text x="844" y="63" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2" fill="#A371F7">TOOLING &amp; TESTS</text>
-<circle cx="830" cy="95" r="3" fill="#A371F7" fill-opacity="0.7"/>
+<rect x="800" y="30" width="350" height="164" rx="16" fill="#0E1226" fill-opacity="0.6" stroke="#818CF8" stroke-opacity="0.35"/>
+<circle cx="828" cy="58" r="5" fill="#818CF8"/>
+<text x="844" y="63" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="14" letter-spacing="2" fill="#818CF8">TOOLING &amp; TESTS</text>
+<circle cx="830" cy="95" r="3" fill="#818CF8" fill-opacity="0.7"/>
 <text x="846" y="100" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#C9D1D9">python · rust · pytest · dbt</text>
-<circle cx="830" cy="127" r="3" fill="#A371F7" fill-opacity="0.7"/>
+<circle cx="830" cy="127" r="3" fill="#818CF8" fill-opacity="0.7"/>
 <text x="846" y="132" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#C9D1D9">CI triage: failure vs matrix cancel</text>
-<circle cx="830" cy="159" r="3" fill="#A371F7" fill-opacity="0.7"/>
+<circle cx="830" cy="159" r="3" fill="#818CF8" fill-opacity="0.7"/>
 <text x="846" y="164" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="14" fill="#C9D1D9">reviews backed by local reproductions</text>
 <rect x="40" y="214" width="1120" height="1.4" fill="url(#line)"/>
 </svg>

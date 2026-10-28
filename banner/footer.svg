@@ -2,20 +2,20 @@
 
 <defs>
   <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#0E2A47"/>
-    <stop offset="50%" stop-color="#0A3325"/>
-    <stop offset="100%" stop-color="#141A2E"/>
+    <stop offset="0%" stop-color="#101838"/>
+    <stop offset="50%" stop-color="#241036"/>
+    <stop offset="100%" stop-color="#0E1226"/>
   </linearGradient>
   <linearGradient id="accent2" x1="0" y1="0" x2="1" y2="0">
-    <stop offset="0%" stop-color="#2F81F7"/>
-    <stop offset="50%" stop-color="#39D353"/>
-    <stop offset="100%" stop-color="#A371F7"/>
+    <stop offset="0%" stop-color="#22D3EE"/>
+    <stop offset="50%" stop-color="#F472B6"/>
+    <stop offset="100%" stop-color="#818CF8"/>
   </linearGradient>
 </defs>
 
 <rect width="1200" height="170" rx="22" fill="url(#wave)"/>
-<path d="M0 118 Q150 88 300 110 T600 104 T900 116 T1200 100 L1200 170 L0 170 Z" fill="#2F81F7" fill-opacity="0.14"/><path d="M0 134 Q170 112 340 128 T680 126 T1020 136 T1200 126 L1200 170 L0 170 Z" fill="#39D353" fill-opacity="0.12"/>
-<text x="600" y="62" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="1.2" fill="#F0F6FC">Thanks for visiting</text>
+<path d="M0 118 Q150 88 300 110 T600 104 T900 116 T1200 100 L1200 170 L0 170 Z" fill="#22D3EE" fill-opacity="0.14"/><path d="M0 134 Q170 112 340 128 T680 126 T1020 136 T1200 126 L1200 170 L0 170 Z" fill="#F472B6" fill-opacity="0.12"/>
+<text x="600" y="62" text-anchor="middle" font-family="'Segoe UI', -apple-system, 'Helvetica Neue', Arial, sans-serif" font-size="24" font-weight="600" letter-spacing="1.2" fill="#F8FAFC">Thanks for visiting</text>
 <text x="600" y="90" text-anchor="middle" font-family="'Cascadia Code', 'JetBrains Mono', Consolas, monospace" font-size="13" letter-spacing="3" fill="#8B949E">SQL GRAMMARS &#183; PARSER SPEED &#183; OPEN SOURCE</text>
 <rect x="470" y="104" width="260" height="2" rx="1" fill="url(#accent2)"/>
 </svg>

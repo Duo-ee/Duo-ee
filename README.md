@@ -32,7 +32,6 @@
 ## Duo
 
 **Computer Science graduate, USTC**
-**中国科学技术大学 · 计算机系毕业**
 
 I work on the unglamorous half of software: the part that reads other people's
 SQL and has to be right. Most of what I do is dialect grammar — teaching a parser
@@ -50,13 +49,13 @@ everything else.
     <img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
   </a>
   <a href="https://github.com/sqlfluff/sqlfluff">
-    <img src="https://img.shields.io/badge/SQLFLUFF-CONTRIBUTOR-2f6f4e?style=for-the-badge&logo=python&logoColor=white" alt="sqlfluff"/>
+    <img src="https://img.shields.io/badge/SQLFLUFF-CONTRIBUTOR-0E7490?style=for-the-badge&logo=python&logoColor=white" alt="sqlfluff"/>
   </a>
   <a href="https://github.com/Rekin226/aquascope">
-    <img src="https://img.shields.io/badge/AQUASCOPE-CONTRIBUTOR-0A66C2?style=for-the-badge&logo=databricks&logoColor=white" alt="aquascope"/>
+    <img src="https://img.shields.io/badge/AQUASCOPE-CONTRIBUTOR-6D28D9?style=for-the-badge&logo=databricks&logoColor=white" alt="aquascope"/>
   </a>
   <a href="https://github.com/sphinx-doc/sphinx">
-    <img src="https://img.shields.io/badge/SPHINX-CONTRIBUTOR-1A73E8?style=for-the-badge&logo=readthedocs&logoColor=white" alt="sphinx"/>
+    <img src="https://img.shields.io/badge/SPHINX-CONTRIBUTOR-BE185D?style=for-the-badge&logo=readthedocs&logoColor=white" alt="sphinx"/>
   </a>
 </p>
 
@@ -79,7 +78,7 @@ everything else.
         <img src="https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr+author%3ADuo-ee"><img src="https://img.shields.io/badge/VIEW-PULL%20REQUESTS-1F6FEB?style=for-the-badge&logo=github&logoColor=white" alt="View pull requests"/></a>
+        <a href="https://github.com/sqlfluff/sqlfluff/pulls?q=is%3Apr+author%3ADuo-ee"><img src="https://img.shields.io/badge/VIEW-PULL%20REQUESTS-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="View pull requests"/></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -95,7 +94,7 @@ everything else.
         <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
       </p>
       <p>
-        <a href="https://github.com/Rekin226/aquascope/pulls?q=is%3Apr+author%3ADuo-ee"><img src="https://img.shields.io/badge/VIEW-PULL%20REQUESTS-0A66C2?style=for-the-badge&logo=github&logoColor=white" alt="View pull requests"/></a>
+        <a href="https://github.com/Rekin226/aquascope/pulls?q=is%3Apr+author%3ADuo-ee"><img src="https://img.shields.io/badge/VIEW-PULL%20REQUESTS-6D28D9?style=for-the-badge&logo=github&logoColor=white" alt="View pull requests"/></a>
       </p>
     </td>
   </tr>
@@ -137,12 +136,12 @@ everything else.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Duo-ee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&icon_color=2F81F7&text_color=C9D1D9&hide=stars" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Duo-ee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=2F81F7&fire=2F81F7&currStreakNum=C9D1D9&currStreakLabel=2F81F7" alt="streak" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Duo-ee&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9&hide=stars" alt="stats" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Duo-ee&theme=github-dark-blue&hide_border=true&background=0D1117&ring=22D3EE&fire=F472B6&currStreakNum=C9D1D9&currStreakLabel=22D3EE" alt="streak" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duo-ee&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=2F81F7&text_color=C9D1D9&langs_count=8" alt="top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duo-ee&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9&langs_count=8" alt="top languages" />
 
 <br/><br/>
 
@@ -209,7 +208,7 @@ that removing a whole-row exemption turns exactly the three intended cases red:
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=680&lines=Reproduce+it%2C+then+change+the+grammar;Then+count+what+else+moved;Every+PR+says+when+AI+helped" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=22D3EE&center=true&vCenter=true&width=680&lines=Reproduce+it%2C+then+change+the+grammar;Then+count+what+else+moved;Every+PR+says+when+AI+helped" alt="typing"/>
 </div>
 
 ---
@@ -230,5 +229,5 @@ contributions; every PR I open says so.</sub>
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2F81F7,50:39D353,100:A371F7&section=footer" width="100%" alt="footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:22D3EE,50:818CF8,100:F472B6&section=footer" width="100%" alt="footer"/>
 </p>
