@@ -182,6 +182,7 @@ everything else.
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8856](https://github.com/sqlfluff/sqlfluff/pull/8856) | fix(redshift): replace postgres-only statements with Redshift grammar |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8869](https://github.com/sqlfluff/sqlfluff/pull/8869) | perf(reflow): find alignment siblings in a single walk |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#632](https://github.com/Rekin226/aquascope/pull/632) | docs: state the Archive catalog and mirror as two numbers |
 | [truera/trulens](https://github.com/truera/trulens) | [#2999](https://github.com/truera/trulens/pull/2999) | ci: install Miniconda in the conda packaging job |
