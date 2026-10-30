@@ -182,6 +182,7 @@ everything else.
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#688](https://github.com/Rekin226/aquascope/pull/688) | feat: support reviewed refusals in plan benchmarks |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8856](https://github.com/sqlfluff/sqlfluff/pull/8856) | fix(redshift): replace postgres-only statements with Redshift grammar |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8869](https://github.com/sqlfluff/sqlfluff/pull/8869) | perf(reflow): find alignment siblings in a single walk |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#632](https://github.com/Rekin226/aquascope/pull/632) | docs: state the Archive catalog and mirror as two numbers |
@@ -189,7 +190,6 @@ everything else.
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8857](https://github.com/sqlfluff/sqlfluff/pull/8857) | fix(redshift): parse SHOW statements |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8858](https://github.com/sqlfluff/sqlfluff/pull/8858) | fix(trino): parse TRUNCATE TABLE statements |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8818](https://github.com/sqlfluff/sqlfluff/pull/8818) | Redshift: support dynamic data masking policies |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8841](https://github.com/sqlfluff/sqlfluff/pull/8841) | Databricks: preserve magic-cell newlines for LT01 |
 <!-- MERGED:END -->
 
 ### In review
