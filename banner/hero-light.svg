@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 460" width="1200" height="460" font-family="ui-monospace, 'Cascadia Code', 'JetBrains Mono', Menlo, Consolas, monospace" role="img" aria-label="Duo — SQL tooling, parsers, database internals">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FCFCFE"/>
+      <stop offset="100%" stop-color="#F2F4F9"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0E7490" stop-opacity="0"/>
+      <stop offset="45%" stop-color="#0E7490" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#BE185D" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+
+  <rect x="0.5" y="0.5" width="1199" height="459" rx="18" fill="url(#bg)" stroke="#DCE1EA"/>
+
+  <text x="40" y="38" font-size="13" letter-spacing="1.2" fill="#8A93A6">~/profile/README.md</text>
+  <text x="1160" y="38" font-size="13" letter-spacing="1.2" fill="#AEB6C4" text-anchor="end">duo · ustc</text>
+  <line x1="28" y1="56" x2="1172" y2="56" stroke="#E4E8EF"/>
+
+  <g font-size="22">
+    <g fill="#C2CAD8" font-size="15" text-anchor="end">
+      <text x="72" y="106">1</text>
+      <text x="72" y="144">2</text>
+      <text x="72" y="182">3</text>
+      <text x="72" y="220">4</text>
+      <text x="72" y="258">5</text>
+      <text x="72" y="296">6</text>
+      <text x="72" y="334">7</text>
+      <text x="72" y="372">8</text>
+    </g>
+
+    <text x="104" y="106"><tspan fill="#9AA3B5">--  </tspan><tspan fill="#4B5566">duo</tspan></text>
+    <text x="104" y="144"><tspan fill="#9AA3B5">--  </tspan><tspan fill="#4B5566">sql tooling &#183; parsers &#183; database internals</tspan></text>
+
+    <text x="104" y="220"><tspan fill="#BE185D">select</tspan><tspan fill="#8792A6">  *</tspan></text>
+    <text x="104" y="258"><tspan fill="#BE185D">from</tspan><tspan fill="#8792A6">    </tspan><tspan fill="#0E7490">software</tspan></text>
+    <text x="104" y="296"><tspan fill="#BE185D">where</tspan><tspan fill="#8792A6">   </tspan><tspan fill="#26303F">it_reads_other_peoples_sql</tspan></text>
+    <text x="104" y="334"><tspan fill="#8792A6">  </tspan><tspan fill="#BE185D">and</tspan><tspan fill="#8792A6">   </tspan><tspan fill="#26303F">the_test_passes</tspan></text>
+    <text x="104" y="372"><tspan fill="#8792A6">  </tspan><tspan fill="#BE185D">and</tspan><tspan fill="#8792A6">   </tspan><tspan fill="#26303F">the_behaviour_is_still_right</tspan><tspan fill="#8792A6">;</tspan></text>
+  </g>
+
+  <rect x="531" y="352" width="11" height="25" fill="#0E7490" opacity="0.9">
+    <animate attributeName="opacity" values="0.9;0.9;0;0;0.9" keyTimes="0;0.45;0.5;0.95;1" dur="1.6s" repeatCount="indefinite"/>
+  </rect>
+
+  <line x1="28" y1="412" x2="1172" y2="412" stroke="url(#rule)"/>
+  <text x="40" y="438" font-size="13" letter-spacing="1.2" fill="#AEB6C4">reproduce it, then change the grammar, then count what else moved</text>
+  <text x="1160" y="438" font-size="13" letter-spacing="1.2" fill="#AEB6C4" text-anchor="end">github.com/Duo-ee</text>
+</svg>
