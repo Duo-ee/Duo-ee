@@ -10,7 +10,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Duo-ee/Duo-ee/main/banner/hero.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Duo-ee/Duo-ee/main/banner/hero-light.svg">
-    <img src="https://raw.githubusercontent.com/Duo-ee/Duo-ee/main/banner/hero-dark.svg" alt="Duo — SQL tooling, parsers, database internals" width="100%">
+    <img src="https://raw.githubusercontent.com/Duo-ee/Duo-ee/main/banner/hero.svg" alt="Duo — SQL tooling, parsers, database internals" width="100%">
   </picture>
 </p>
 
