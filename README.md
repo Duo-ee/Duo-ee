@@ -182,14 +182,14 @@ everything else.
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#688](https://github.com/Rekin226/aquascope/pull/688) | feat: support reviewed refusals in plan benchmarks |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8856](https://github.com/sqlfluff/sqlfluff/pull/8856) | fix(redshift): replace postgres-only statements with Redshift grammar |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8869](https://github.com/sqlfluff/sqlfluff/pull/8869) | perf(reflow): find alignment siblings in a single walk |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#632](https://github.com/Rekin226/aquascope/pull/632) | docs: state the Archive catalog and mirror as two numbers |
-| [truera/trulens](https://github.com/truera/trulens) | [#2999](https://github.com/truera/trulens/pull/2999) | ci: install Miniconda in the conda packaging job |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8857](https://github.com/sqlfluff/sqlfluff/pull/8857) | fix(redshift): parse SHOW statements |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8858](https://github.com/sqlfluff/sqlfluff/pull/8858) | fix(trino): parse TRUNCATE TABLE statements |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8818](https://github.com/sqlfluff/sqlfluff/pull/8818) | Redshift: support dynamic data masking policies |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#676](https://github.com/Rekin226/aquascope/pull/676) | Reconnaissance: a quality half on SiteContext, read from a local Arch... |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#684](https://github.com/Rekin226/aquascope/pull/684) | Report partial station harvests and a station-count drop (#289) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#672](https://github.com/Rekin226/aquascope/pull/672) | copernicus: send GloFAS requests to the EWDS |
+| [sharkdp/fd](https://github.com/sharkdp/fd) | [#2208](https://github.com/sharkdp/fd/pull/2208) | fix: keep verbatim Windows paths absolute in --absolute-path |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#675](https://github.com/Rekin226/aquascope/pull/675) | Scout: set aside near-dry areas in the river status findings (#638) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#671](https://github.com/Rekin226/aquascope/pull/671) | Sen's slope: a missing year is a gap in time (#668) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#689](https://github.com/Rekin226/aquascope/pull/689) | fix(gym): bind refusal reviews to evidence and clarify provisional sc... |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#686](https://github.com/Rekin226/aquascope/pull/686) | fix(what-if): keep units on fractional quantities |
 <!-- MERGED:END -->
 
 ### In review
