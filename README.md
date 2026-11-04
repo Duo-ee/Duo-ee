@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#695](https://github.com/Rekin226/aquascope/pull/695) | gym: score a faithful potomac-supply report (#441) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#696](https://github.com/Rekin226/aquascope/pull/696) | ci: a capped harvest never publishes the catalogue (#692) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#694](https://github.com/Rekin226/aquascope/pull/694) | docs: state the Archive's counts from the 2026-10-26 harvest |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#707](https://github.com/Rekin226/aquascope/pull/707) | ci: use CPU-only PyTorch on Linux runners |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#676](https://github.com/Rekin226/aquascope/pull/676) | Reconnaissance: a quality half on SiteContext, read from a local Arch... |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#684](https://github.com/Rekin226/aquascope/pull/684) | Report partial station harvests and a station-count drop (#289) |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#672](https://github.com/Rekin226/aquascope/pull/672) | copernicus: send GloFAS requests to the EWDS |
 | [sharkdp/fd](https://github.com/sharkdp/fd) | [#2208](https://github.com/sharkdp/fd/pull/2208) | fix: keep verbatim Windows paths absolute in --absolute-path |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#675](https://github.com/Rekin226/aquascope/pull/675) | Scout: set aside near-dry areas in the river status findings (#638) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#671](https://github.com/Rekin226/aquascope/pull/671) | Sen's slope: a missing year is a gap in time (#668) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#689](https://github.com/Rekin226/aquascope/pull/689) | fix(gym): bind refusal reviews to evidence and clarify provisional sc... |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#686](https://github.com/Rekin226/aquascope/pull/686) | fix(what-if): keep units on fractional quantities |
 <!-- MERGED:END -->
 
 </details>
