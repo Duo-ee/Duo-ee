@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#706](https://github.com/Rekin226/aquascope/pull/706) | explorer: name a reach's card after the river, not a nearby pond (#637) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#703](https://github.com/Rekin226/aquascope/pull/703) | archive: take a station span from the record, not the founding year |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#701](https://github.com/Rekin226/aquascope/pull/701) | gym: check a required method against the full reconnaissance (#700) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#698](https://github.com/Rekin226/aquascope/pull/698) | gym: a snow-fed Carpathian reference plan for winter supply (#442) |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#695](https://github.com/Rekin226/aquascope/pull/695) | gym: score a faithful potomac-supply report (#441) |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#696](https://github.com/Rekin226/aquascope/pull/696) | ci: a capped harvest never publishes the catalogue (#692) |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#694](https://github.com/Rekin226/aquascope/pull/694) | docs: state the Archive's counts from the 2026-10-26 harvest |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#707](https://github.com/Rekin226/aquascope/pull/707) | ci: use CPU-only PyTorch on Linux runners |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#676](https://github.com/Rekin226/aquascope/pull/676) | Reconnaissance: a quality half on SiteContext, read from a local Arch... |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#684](https://github.com/Rekin226/aquascope/pull/684) | Report partial station harvests and a station-count drop (#289) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#672](https://github.com/Rekin226/aquascope/pull/672) | copernicus: send GloFAS requests to the EWDS |
-| [sharkdp/fd](https://github.com/sharkdp/fd) | [#2208](https://github.com/sharkdp/fd/pull/2208) | fix: keep verbatim Windows paths absolute in --absolute-path |
 <!-- MERGED:END -->
 
 </details>
