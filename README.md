@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#706](https://github.com/Rekin226/aquascope/pull/706) | explorer: name a reach's card after the river, not a nearby pond (#637) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#703](https://github.com/Rekin226/aquascope/pull/703) | archive: take a station span from the record, not the founding year |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#701](https://github.com/Rekin226/aquascope/pull/701) | gym: check a required method against the full reconnaissance (#700) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#698](https://github.com/Rekin226/aquascope/pull/698) | gym: a snow-fed Carpathian reference plan for winter supply (#442) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#695](https://github.com/Rekin226/aquascope/pull/695) | gym: score a faithful potomac-supply report (#441) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#696](https://github.com/Rekin226/aquascope/pull/696) | ci: a capped harvest never publishes the catalogue (#692) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#694](https://github.com/Rekin226/aquascope/pull/694) | docs: state the Archive's counts from the 2026-10-26 harvest |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#707](https://github.com/Rekin226/aquascope/pull/707) | ci: use CPU-only PyTorch on Linux runners |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#720](https://github.com/Rekin226/aquascope/pull/720) | fix(whatif): put the sliders back when a line reads nothing (#646) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#719](https://github.com/Rekin226/aquascope/pull/719) | gym(reports): add the nairobi-drought report reference (#441) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#717](https://github.com/Rekin226/aquascope/pull/717) | fix(mesh-review): pin the findings a stability question names (#646) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#716](https://github.com/Rekin226/aquascope/pull/716) | fix(catalog): treat "near" as a connective in multi-word searches (#646) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#714](https://github.com/Rekin226/aquascope/pull/714) | fix(scout): name the 2-year flow for the ensemble line (#646) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#713](https://github.com/Rekin226/aquascope/pull/713) | docs(i18n): add a Simplified Chinese quickstart (#31) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#711](https://github.com/Rekin226/aquascope/pull/711) | fix(whatif): read singular shares and reject unitless withdrawals |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#712](https://github.com/Rekin226/aquascope/pull/712) | fix(poland_imgw): quote the IMGW-PIB notices verbatim in the attribution |
 <!-- MERGED:END -->
 
 </details>
