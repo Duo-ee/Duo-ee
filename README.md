@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#718](https://github.com/Rekin226/aquascope/pull/718) | fix(ask): keep MODFLOW, comparisons and undated set_time out of the p... |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#715](https://github.com/Rekin226/aquascope/pull/715) | fix(korea_wamis): record the HRFCO Open API terms as its licence |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#723](https://github.com/Rekin226/aquascope/pull/723) | docs: refresh Archive counts to the 2026-11-02 harvest |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#720](https://github.com/Rekin226/aquascope/pull/720) | fix(whatif): put the sliders back when a line reads nothing (#646) |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#719](https://github.com/Rekin226/aquascope/pull/719) | gym(reports): add the nairobi-drought report reference (#441) |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#717](https://github.com/Rekin226/aquascope/pull/717) | fix(mesh-review): pin the findings a stability question names (#646) |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#716](https://github.com/Rekin226/aquascope/pull/716) | fix(catalog): treat "near" as a connective in multi-word searches (#646) |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#714](https://github.com/Rekin226/aquascope/pull/714) | fix(scout): name the 2-year flow for the ensemble line (#646) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#713](https://github.com/Rekin226/aquascope/pull/713) | docs(i18n): add a Simplified Chinese quickstart (#31) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#711](https://github.com/Rekin226/aquascope/pull/711) | fix(whatif): read singular shares and reject unitless withdrawals |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#712](https://github.com/Rekin226/aquascope/pull/712) | fix(poland_imgw): quote the IMGW-PIB notices verbatim in the attribution |
 <!-- MERGED:END -->
 
 </details>
