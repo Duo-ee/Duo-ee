@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9107](https://github.com/sqlfluff/sqlfluff/pull/9107) | fix(ci): give flagged contributors a step they can actually take |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#741](https://github.com/Rekin226/aquascope/pull/741) | docs(gym): score the remaining five recorded studies |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#740](https://github.com/Rekin226/aquascope/pull/740) | docs(gym): score the ungauged Niger mainstem at Bamako |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#736](https://github.com/Rekin226/aquascope/pull/736) | fix: read FAO AQUASTAT from the portal export |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#739](https://github.com/Rekin226/aquascope/pull/739) | docs(gym): score the ungauged Sintra supply study |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#735](https://github.com/Rekin226/aquascope/pull/735) | fix: record GEMStat open archive licence |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#718](https://github.com/Rekin226/aquascope/pull/718) | fix(ask): keep MODFLOW, comparisons and undated set_time out of the p... |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#715](https://github.com/Rekin226/aquascope/pull/715) | fix(korea_wamis): record the HRFCO Open API terms as its licence |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#723](https://github.com/Rekin226/aquascope/pull/723) | docs: refresh Archive counts to the 2026-11-02 harvest |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#720](https://github.com/Rekin226/aquascope/pull/720) | fix(whatif): put the sliders back when a line reads nothing (#646) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#719](https://github.com/Rekin226/aquascope/pull/719) | gym(reports): add the nairobi-drought report reference (#441) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#717](https://github.com/Rekin226/aquascope/pull/717) | fix(mesh-review): pin the findings a stability question names (#646) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#716](https://github.com/Rekin226/aquascope/pull/716) | fix(catalog): treat "near" as a connective in multi-word searches (#646) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#714](https://github.com/Rekin226/aquascope/pull/714) | fix(scout): name the 2-year flow for the ensemble line (#646) |
 <!-- MERGED:END -->
 
 </details>
