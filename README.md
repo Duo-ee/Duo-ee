@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9098](https://github.com/sqlfluff/sqlfluff/pull/9098) | fix(cli): keep --bench out of machine-readable lint output |
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9109](https://github.com/sqlfluff/sqlfluff/pull/9109) | fix(databricks): parse a materialized view COMMENT as a comment clause |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9107](https://github.com/sqlfluff/sqlfluff/pull/9107) | fix(ci): give flagged contributors a step they can actually take |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#741](https://github.com/Rekin226/aquascope/pull/741) | docs(gym): score the remaining five recorded studies |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#740](https://github.com/Rekin226/aquascope/pull/740) | docs(gym): score the ungauged Niger mainstem at Bamako |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#736](https://github.com/Rekin226/aquascope/pull/736) | fix: read FAO AQUASTAT from the portal export |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#739](https://github.com/Rekin226/aquascope/pull/739) | docs(gym): score the ungauged Sintra supply study |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#735](https://github.com/Rekin226/aquascope/pull/735) | fix: record GEMStat open archive licence |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#718](https://github.com/Rekin226/aquascope/pull/718) | fix(ask): keep MODFLOW, comparisons and undated set_time out of the p... |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#715](https://github.com/Rekin226/aquascope/pull/715) | fix(korea_wamis): record the HRFCO Open API terms as its licence |
 <!-- MERGED:END -->
 
 </details>
