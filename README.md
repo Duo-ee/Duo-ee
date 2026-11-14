@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#737](https://github.com/Rekin226/aquascope/pull/737) | fix: read Japan MLIT from the rebuilt site's own API |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#752](https://github.com/Rekin226/aquascope/pull/752) | repair: say why an oversized prompt is not sent |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#751](https://github.com/Rekin226/aquascope/pull/751) | Analyst: reuse a repeated tool call, expose results to run_python, re... |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#747](https://github.com/Rekin226/aquascope/pull/747) | docs(registry): record what India-WRIS's own terms say |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#748](https://github.com/Rekin226/aquascope/pull/748) | fix(explorer): keep recorded answers on the river the question names |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9135](https://github.com/sqlfluff/sqlfluff/pull/9135) | fix(ci): keep the Windows temp dir outside the working tree |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9098](https://github.com/sqlfluff/sqlfluff/pull/9098) | fix(cli): keep --bench out of machine-readable lint output |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9109](https://github.com/sqlfluff/sqlfluff/pull/9109) | fix(databricks): parse a materialized view COMMENT as a comment clause |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9107](https://github.com/sqlfluff/sqlfluff/pull/9107) | fix(ci): give flagged contributors a step they can actually take |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#741](https://github.com/Rekin226/aquascope/pull/741) | docs(gym): score the remaining five recorded studies |
 <!-- MERGED:END -->
 
 </details>
