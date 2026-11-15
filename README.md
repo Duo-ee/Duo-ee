@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#755](https://github.com/Rekin226/aquascope/pull/755) | fix: read UTF-8 output on Windows and stop a zero forecast budget |
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9133](https://github.com/sqlfluff/sqlfluff/pull/9133) | ST07: don't rewrite USING when it would change the query |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#758](https://github.com/Rekin226/aquascope/pull/758) | fix: read a singular cumec as a cubic metre per second |
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8873](https://github.com/sqlfluff/sqlfluff/pull/8873) | feat: warm worker runner for persistent parallel templating |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#737](https://github.com/Rekin226/aquascope/pull/737) | fix: read Japan MLIT from the rebuilt site's own API |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#752](https://github.com/Rekin226/aquascope/pull/752) | repair: say why an oversized prompt is not sent |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#751](https://github.com/Rekin226/aquascope/pull/751) | Analyst: reuse a repeated tool call, expose results to run_python, re... |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#747](https://github.com/Rekin226/aquascope/pull/747) | docs(registry): record what India-WRIS's own terms say |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#748](https://github.com/Rekin226/aquascope/pull/748) | fix(explorer): keep recorded answers on the river the question names |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9135](https://github.com/sqlfluff/sqlfluff/pull/9135) | fix(ci): keep the Windows temp dir outside the working tree |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9098](https://github.com/sqlfluff/sqlfluff/pull/9098) | fix(cli): keep --bench out of machine-readable lint output |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9109](https://github.com/sqlfluff/sqlfluff/pull/9109) | fix(databricks): parse a materialized view COMMENT as a comment clause |
 <!-- MERGED:END -->
 
 </details>
