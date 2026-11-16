@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#763](https://github.com/Rekin226/aquascope/pull/763) | registry: carry Colorado DWR's required disclaimer (#473) |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#738](https://github.com/Rekin226/aquascope/pull/738) | ci: sweep every collector's live fetch weekly |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#765](https://github.com/Rekin226/aquascope/pull/765) | docs(registry): record the first-party terms behind the wqp licence (... |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#764](https://github.com/Rekin226/aquascope/pull/764) | registry: record the EEA's CC BY 4.0 terms for eu_wfd (#473) |
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9185](https://github.com/sqlfluff/sqlfluff/pull/9185) | fix(snowflake): support DATA_METRIC_SCHEDULE in CREATE/DEFINE VIEW an... |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#760](https://github.com/Rekin226/aquascope/pull/760) | registry: record WaPOR's CC BY-NC-SA 4.0 licence (#473) |
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8870](https://github.com/sqlfluff/sqlfluff/pull/8870) | fix(postgres): stop treating provider as a keyword |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#755](https://github.com/Rekin226/aquascope/pull/755) | fix: read UTF-8 output on Windows and stop a zero forecast budget |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9133](https://github.com/sqlfluff/sqlfluff/pull/9133) | ST07: don't rewrite USING when it would change the query |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#758](https://github.com/Rekin226/aquascope/pull/758) | fix: read a singular cumec as a cubic metre per second |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8873](https://github.com/sqlfluff/sqlfluff/pull/8873) | feat: warm worker runner for persistent parallel templating |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#737](https://github.com/Rekin226/aquascope/pull/737) | fix: read Japan MLIT from the rebuilt site's own API |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#752](https://github.com/Rekin226/aquascope/pull/752) | repair: say why an oversized prompt is not sent |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#751](https://github.com/Rekin226/aquascope/pull/751) | Analyst: reuse a repeated tool call, expose results to run_python, re... |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#747](https://github.com/Rekin226/aquascope/pull/747) | docs(registry): record what India-WRIS's own terms say |
 <!-- MERGED:END -->
 
 </details>
