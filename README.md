@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#779](https://github.com/Rekin226/aquascope/pull/779) | fix: read the Taiwan MOENV river water-quality dataset |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#778](https://github.com/Rekin226/aquascope/pull/778) | fix: report BOM observation API failures in collector health |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#769](https://github.com/Rekin226/aquascope/pull/769) | registry: carry the OGDL-Taiwan-1.0 Exhibit notice on the four Taiwan... |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9205](https://github.com/sqlfluff/sqlfluff/pull/9205) | fix(postgres): parse parenthesised CLUSTER options |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#768](https://github.com/Rekin226/aquascope/pull/768) | registry: link OpenHi's CC BY-SA licence and note the changes (#473) |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#763](https://github.com/Rekin226/aquascope/pull/763) | registry: carry Colorado DWR's required disclaimer (#473) |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#738](https://github.com/Rekin226/aquascope/pull/738) | ci: sweep every collector's live fetch weekly |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#765](https://github.com/Rekin226/aquascope/pull/765) | docs(registry): record the first-party terms behind the wqp licence (... |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#764](https://github.com/Rekin226/aquascope/pull/764) | registry: record the EEA's CC BY 4.0 terms for eu_wfd (#473) |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9185](https://github.com/sqlfluff/sqlfluff/pull/9185) | fix(snowflake): support DATA_METRIC_SCHEDULE in CREATE/DEFINE VIEW an... |
 <!-- MERGED:END -->
 
 </details>
