@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#793](https://github.com/Rekin226/aquascope/pull/793) | fix: exclude partial edge months from site drought indices |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#796](https://github.com/Rekin226/aquascope/pull/796) | fix: align SPEI inputs by calendar month |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#776](https://github.com/Rekin226/aquascope/pull/776) | ci: align collector sweep credential environment names |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#784](https://github.com/Rekin226/aquascope/pull/784) | fix: split drought events at missing months |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#783](https://github.com/Rekin226/aquascope/pull/783) | bench: add a Taichung meteorological drought reference plan |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#781](https://github.com/Rekin226/aquascope/pull/781) | fix: run the irrigation tutorial on Python 3.10 and 3.11 |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#782](https://github.com/Rekin226/aquascope/pull/782) | fix: require consecutive months for SPI and SPEI |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#779](https://github.com/Rekin226/aquascope/pull/779) | fix: read the Taiwan MOENV river water-quality dataset |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#778](https://github.com/Rekin226/aquascope/pull/778) | fix: report BOM observation API failures in collector health |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#769](https://github.com/Rekin226/aquascope/pull/769) | registry: carry the OGDL-Taiwan-1.0 Exhibit notice on the four Taiwan... |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9205](https://github.com/sqlfluff/sqlfluff/pull/9205) | fix(postgres): parse parenthesised CLUSTER options |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#768](https://github.com/Rekin226/aquascope/pull/768) | registry: link OpenHi's CC BY-SA licence and note the changes (#473) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#763](https://github.com/Rekin226/aquascope/pull/763) | registry: carry Colorado DWR's required disclaimer (#473) |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#738](https://github.com/Rekin226/aquascope/pull/738) | ci: sweep every collector's live fetch weekly |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#765](https://github.com/Rekin226/aquascope/pull/765) | docs(registry): record the first-party terms behind the wqp licence (... |
 <!-- MERGED:END -->
 
 </details>
