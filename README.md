@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#798](https://github.com/Rekin226/aquascope/pull/798) | fix: report the date of each drought index and timescale |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#800](https://github.com/Rekin226/aquascope/pull/800) | fix: keep published forecast scores when an issued file is unreadable |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#801](https://github.com/Rekin226/aquascope/pull/801) | fix: handle zero-flow forecasts in verification |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#799](https://github.com/Rekin226/aquascope/pull/799) | fix: keep SPI results when a month cannot be fitted |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#795](https://github.com/Rekin226/aquascope/pull/795) | ci: publish collector sweep health records to the Archive |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#794](https://github.com/Rekin226/aquascope/pull/794) | fix: validate SPEI coverage in drought plans |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#777](https://github.com/Rekin226/aquascope/pull/777) | fix: restore WaPOR v3 collection from official rasters |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#793](https://github.com/Rekin226/aquascope/pull/793) | fix: exclude partial edge months from site drought indices |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#796](https://github.com/Rekin226/aquascope/pull/796) | fix: align SPEI inputs by calendar month |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#776](https://github.com/Rekin226/aquascope/pull/776) | ci: align collector sweep credential environment names |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#784](https://github.com/Rekin226/aquascope/pull/784) | fix: split drought events at missing months |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#783](https://github.com/Rekin226/aquascope/pull/783) | bench: add a Taichung meteorological drought reference plan |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#781](https://github.com/Rekin226/aquascope/pull/781) | fix: run the irrigation tutorial on Python 3.10 and 3.11 |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#782](https://github.com/Rekin226/aquascope/pull/782) | fix: require consecutive months for SPI and SPEI |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#779](https://github.com/Rekin226/aquascope/pull/779) | fix: read the Taiwan MOENV river water-quality dataset |
 <!-- MERGED:END -->
 
 </details>
