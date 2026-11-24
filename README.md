@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8869](https://github.com/sqlfluff/sqlfluff/pull/8869) | perf(reflow): find alignment siblings in a single walk |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#807](https://github.com/Rekin226/aquascope/pull/807) | Export the routed flood hydrograph from Study |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#805](https://github.com/Rekin226/aquascope/pull/805) | Report reservoir peak reduction only when both peaks are observed |
 | [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs) | [#896](https://github.com/zarr-developers/numcodecs/pull/896) | fix(fletcher32): reject an out buffer of the wrong size |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#804](https://github.com/Rekin226/aquascope/pull/804) | Run the land-use runoff comparison in Study |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#798](https://github.com/Rekin226/aquascope/pull/798) | fix: report the date of each drought index and timescale |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#800](https://github.com/Rekin226/aquascope/pull/800) | fix: keep published forecast scores when an issued file is unreadable |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#801](https://github.com/Rekin226/aquascope/pull/801) | fix: handle zero-flow forecasts in verification |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#799](https://github.com/Rekin226/aquascope/pull/799) | fix: keep SPI results when a month cannot be fitted |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#795](https://github.com/Rekin226/aquascope/pull/795) | ci: publish collector sweep health records to the Archive |
 <!-- MERGED:END -->
 
 </details>
