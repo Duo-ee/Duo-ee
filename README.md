@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#818](https://github.com/Rekin226/aquascope/pull/818) | Exclude infinite flows from forecast verification |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#817](https://github.com/Rekin226/aquascope/pull/817) | Use the best-sampled gauge on the river forecast card |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8868](https://github.com/sqlfluff/sqlfluff/pull/8868) | fix(oracle): parse division inside CREATE VIEW bodies |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#816](https://github.com/Rekin226/aquascope/pull/816) | Screen reservoir flood attenuation from the flood-risk playbook |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9146](https://github.com/sqlfluff/sqlfluff/pull/9146) | feat(bigquery): add BQ01 to forbid WITH expressions |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#813](https://github.com/Rekin226/aquascope/pull/813) | Run Flood it as a screening inundation study (#787) |
 | [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8869](https://github.com/sqlfluff/sqlfluff/pull/8869) | perf(reflow): find alignment siblings in a single walk |
 | [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#807](https://github.com/Rekin226/aquascope/pull/807) | Export the routed flood hydrograph from Study |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#805](https://github.com/Rekin226/aquascope/pull/805) | Report reservoir peak reduction only when both peaks are observed |
-| [zarr-developers/numcodecs](https://github.com/zarr-developers/numcodecs) | [#896](https://github.com/zarr-developers/numcodecs/pull/896) | fix(fletcher32): reject an out buffer of the wrong size |
 <!-- MERGED:END -->
 
 </details>
