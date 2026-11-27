@@ -49,14 +49,14 @@ A small, automatically refreshed window into the work. [See all merged pull requ
 <!-- MERGED:START -->
 | Repository | PR | Change |
 |:--|:--|:--|
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#818](https://github.com/Rekin226/aquascope/pull/818) | Exclude infinite flows from forecast verification |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#817](https://github.com/Rekin226/aquascope/pull/817) | Use the best-sampled gauge on the river forecast card |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8868](https://github.com/sqlfluff/sqlfluff/pull/8868) | fix(oracle): parse division inside CREATE VIEW bodies |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#816](https://github.com/Rekin226/aquascope/pull/816) | Screen reservoir flood attenuation from the flood-risk playbook |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#9146](https://github.com/sqlfluff/sqlfluff/pull/9146) | feat(bigquery): add BQ01 to forbid WITH expressions |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#813](https://github.com/Rekin226/aquascope/pull/813) | Run Flood it as a screening inundation study (#787) |
-| [sqlfluff/sqlfluff](https://github.com/sqlfluff/sqlfluff) | [#8869](https://github.com/sqlfluff/sqlfluff/pull/8869) | perf(reflow): find alignment siblings in a single walk |
-| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#807](https://github.com/Rekin226/aquascope/pull/807) | Export the routed flood hydrograph from Study |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#823](https://github.com/Rekin226/aquascope/pull/823) | Couple elevation-band CemaNeige snowmelt to GR4J calibration |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#822](https://github.com/Rekin226/aquascope/pull/822) | Compare full-record and post-change design floods in Studio |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#826](https://github.com/Rekin226/aquascope/pull/826) | Preserve benchmark evidence when rescoring plan files |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#820](https://github.com/Rekin226/aquascope/pull/820) | Preserve forecast history when the published index cannot be read |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#827](https://github.com/Rekin226/aquascope/pull/827) | Show demand and soil-triggered applications separately in the irrigat... |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#825](https://github.com/Rekin226/aquascope/pull/825) | Add a Japanese quickstart for the AquaScope README |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#821](https://github.com/Rekin226/aquascope/pull/821) | Describe the lead window when a gauge has no scores to rank |
+| [Rekin226/aquascope](https://github.com/Rekin226/aquascope) | [#819](https://github.com/Rekin226/aquascope/pull/819) | Use the unrounded median for gauge forecast error factors |
 <!-- MERGED:END -->
 
 </details>
